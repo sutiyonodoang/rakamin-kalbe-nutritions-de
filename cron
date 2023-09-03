@@ -1,0 +1,1 @@
+0 7 * * * /path/check_directory.sh
